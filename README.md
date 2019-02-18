@@ -1,2 +1,2 @@
 # hello-work
-first example repository
+first example repeste es mi nuevo git para practicar lo buena que soy siendo developer
